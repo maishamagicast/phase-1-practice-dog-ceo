@@ -1,0 +1,18 @@
+img{
+    height: 500px;
+    width: 500px;
+    
+    border: 2px solid salmon;
+}
+
+*{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    overflow-y:auto ;
+    background: linear-gradient(to right, #ddd9b9, #cbf0a0);
+    
+}
